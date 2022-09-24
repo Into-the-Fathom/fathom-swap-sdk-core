@@ -952,53 +952,53 @@
     "exec-sh" "^0.3.2"
     "minimist" "^1.2.0"
 
-"@into-the-fathom/address@^1.0.0":
-  "integrity" "sha512-MpEhb867Q5OtPu5B+okp3AqRQp0d9KS4QeFiCruRy1y/MOtLbITswJWDHHtOFz2k9mhoLIAhXZqfvv8yTolSuA=="
-  "resolved" "https://registry.npmjs.org/@into-the-fathom/address/-/address-1.0.0.tgz"
-  "version" "1.0.0"
+"@into-the-fathom/address@^1.1.0":
+  "integrity" "sha512-xut4U7nIXmQH1jP6fMyFLe07weIwGlNs9rHdfttTQ1DxgzcnS1IE7edCOdcpnmgkFeJA1h/AR44rXJbxUH+7Sg=="
+  "resolved" "https://registry.npmjs.org/@into-the-fathom/address/-/address-1.1.0.tgz"
+  "version" "1.1.0"
   dependencies:
-    "@into-the-fathom/bignumber" "1.0.0"
-    "@into-the-fathom/bytes" "1.0.0"
-    "@into-the-fathom/keccak256" "1.0.0"
-    "@into-the-fathom/logger" "1.0.0"
-    "@into-the-fathom/rlp" "1.0.0"
+    "@into-the-fathom/bignumber" "^1.1.0"
+    "@into-the-fathom/bytes" "^1.1.0"
+    "@into-the-fathom/keccak256" "^1.1.0"
+    "@into-the-fathom/logger" "^1.1.0"
+    "@into-the-fathom/rlp" "^1.1.0"
 
-"@into-the-fathom/bignumber@1.0.0":
-  "integrity" "sha512-y4TbXI5v3NSDFXLBneI74pBA1eGHDwGf3uPfebN3lyAvR3qnIiAz06B0s5I8+cYHpwvejDO4oV6Dd5or92jzfQ=="
-  "resolved" "https://registry.npmjs.org/@into-the-fathom/bignumber/-/bignumber-1.0.0.tgz"
-  "version" "1.0.0"
+"@into-the-fathom/bignumber@^1.1.0":
+  "integrity" "sha512-RMSF38g6f3iNJbJtOVeV+4EY+wObcYMaGT0vZjkOiEuQvgU2vxKJVVkT+FS5mLz57/86qCEWRrzDh0bAwf9X1Q=="
+  "resolved" "https://registry.npmjs.org/@into-the-fathom/bignumber/-/bignumber-1.1.0.tgz"
+  "version" "1.1.0"
   dependencies:
-    "@into-the-fathom/bytes" "1.0.0"
-    "@into-the-fathom/logger" "1.0.0"
+    "@into-the-fathom/bytes" "^1.1.0"
+    "@into-the-fathom/logger" "^1.1.0"
     "bn.js" "^5.2.1"
 
-"@into-the-fathom/bytes@1.0.0":
-  "integrity" "sha512-zZtGzfg4qspHZACeTvvXLo6Ug/hmQGhzawp4NpH16iHZFYTweG5K/fv0+JTyUQcJt+i6+pWv7TZE9Y53P5nyqw=="
-  "resolved" "https://registry.npmjs.org/@into-the-fathom/bytes/-/bytes-1.0.0.tgz"
-  "version" "1.0.0"
+"@into-the-fathom/bytes@^1.1.0":
+  "integrity" "sha512-k9ekymMvNEAth04C44ikDbdwvdOwbmZwxDDViGpCD/+4z9gYiOk1NxGtmZABxwAWkVBANQdNO0Br/2WCuxqBMw=="
+  "resolved" "https://registry.npmjs.org/@into-the-fathom/bytes/-/bytes-1.1.0.tgz"
+  "version" "1.1.0"
   dependencies:
-    "@into-the-fathom/logger" "1.0.0"
+    "@into-the-fathom/logger" "^1.1.0"
 
-"@into-the-fathom/keccak256@1.0.0":
-  "integrity" "sha512-pkmwQOXK7lWq33Z7J2uXLwf3tj0dA7evSwSQaQJVtHA0YTzdeCJJxsRw+8bo/RvQ06QGI8X0W9vRn6KGIaOSQg=="
-  "resolved" "https://registry.npmjs.org/@into-the-fathom/keccak256/-/keccak256-1.0.0.tgz"
-  "version" "1.0.0"
+"@into-the-fathom/keccak256@^1.1.0":
+  "integrity" "sha512-flN3lAV/lDIKh2dUEDxS52HxVT4v3NuT5IZxAVuEfBlS3wGy0jZZR5OzVcuL0VG93hQKCxHdzxDxm/qxP94oCw=="
+  "resolved" "https://registry.npmjs.org/@into-the-fathom/keccak256/-/keccak256-1.1.0.tgz"
+  "version" "1.1.0"
   dependencies:
-    "@into-the-fathom/bytes" "1.0.0"
+    "@into-the-fathom/bytes" "^1.1.0"
     "js-sha3" "0.8.0"
 
-"@into-the-fathom/logger@1.0.0":
-  "integrity" "sha512-4yEmD0J2x4I8v6AtzE0Keyg0q1JfRRjf62WKo+5hCvy2Hc5J9GbqsbD10ROKzbxY3xiV3lc5x6xcoz+lX5W20g=="
-  "resolved" "https://registry.npmjs.org/@into-the-fathom/logger/-/logger-1.0.0.tgz"
-  "version" "1.0.0"
+"@into-the-fathom/logger@^1.1.0":
+  "integrity" "sha512-fFziiIGxL+9LKRBv3SdIKd942qcysTxsP/AQDLSAhbp+NDrnzERCJOHE8QywcmOD5KTLUEjLx2fO041ZIZQszQ=="
+  "resolved" "https://registry.npmjs.org/@into-the-fathom/logger/-/logger-1.1.0.tgz"
+  "version" "1.1.0"
 
-"@into-the-fathom/rlp@1.0.0":
-  "integrity" "sha512-5RO61uBKTLoLnun4vqrtxygTTOZTtNkfNejew/iTj+FGUGifRyRYbXAtQdQluPQGPHvTklHONFDP6A6xWERpEQ=="
-  "resolved" "https://registry.npmjs.org/@into-the-fathom/rlp/-/rlp-1.0.0.tgz"
-  "version" "1.0.0"
+"@into-the-fathom/rlp@^1.1.0":
+  "integrity" "sha512-ElHY1OSdVIBEYwW1CmQv/suwKglu2AwSG72yIpVwn0PJaVsantiBl0ohM2qnDqJYFb8/86ohqHqKLidh5Mij/w=="
+  "resolved" "https://registry.npmjs.org/@into-the-fathom/rlp/-/rlp-1.1.0.tgz"
+  "version" "1.1.0"
   dependencies:
-    "@into-the-fathom/bytes" "1.0.0"
-    "@into-the-fathom/logger" "1.0.0"
+    "@into-the-fathom/bytes" "^1.1.0"
+    "@into-the-fathom/logger" "^1.1.0"
 
 "@istanbuljs/load-nyc-config@^1.0.0":
   "integrity" "sha512-VjeHSlIzpv/NyD3N0YuHfXOPDIixcA1q2ZV98wsMqcYlPmv2n3Yb2lYP9XMElnaFVXg5A7YLTeLu6V84uQDjmQ=="
