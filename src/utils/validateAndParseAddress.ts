@@ -1,4 +1,4 @@
-import { getAddress } from '@baldyash/address'
+import { getAddress } from '@into-the-fathom/address'
 
 /**
  * Validates an address and returns the parsed (checksummed) version of that address
